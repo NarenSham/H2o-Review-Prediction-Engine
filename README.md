@@ -4,7 +4,10 @@
 
 # Classify Review Data 
 
-This application helps you predict whether the review at hand will be positive or negative based on the dataset at hand. For example purposes, you can use this [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences)] which has the following datasets
+This application helps you predict whether the review at hand will be positive or negative based on the dataset at hand. 
+Please run as one complete block to include UI elements and the underlying text mining methods.
+Please see Review App.py for undelying h2o logic.
+For example purposes, you can use this [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences)] which has the following datasets
 
 | Datasets      | 
 | ------------- |
