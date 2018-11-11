@@ -1,5 +1,5 @@
 # H2o-Review-Prediction-Engine 
-:fire:A review sentiment prediction for any dataset using h2o
+:fire: A review sentiment prediction analysis for any dataset using h2o
 
 
 # Classify Review Data 
