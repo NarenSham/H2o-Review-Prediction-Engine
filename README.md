@@ -1,9 +1,10 @@
 # H2o-Review-Prediction-Engine 
-A review sentiment prediction for any dataset using h2o
+:fire:A review sentiment prediction for any dataset using h2o
 
 
-# Classify Review Data :fire:
+# Classify Review Data 
 
+This application helps you predict whether the review at hand will be positive or negative based on the dataset at hand. For example purposes, you can use this [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences)]
 
 ## A graphical interface to understand how your review will be classified
 
@@ -42,7 +43,7 @@ def UploadAction(event=None):
 
 def AssignAction(event=None):
     filename = filedialog.askopenfilename()
-    #tsvfile=filename
+    #tsvfile=filename 
     return filename
 
 #prediction algorithm
