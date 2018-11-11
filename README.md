@@ -4,7 +4,13 @@
 
 # Classify Review Data 
 
-This application helps you predict whether the review at hand will be positive or negative based on the dataset at hand. For example purposes, you can use this [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences)]
+This application helps you predict whether the review at hand will be positive or negative based on the dataset at hand. For example purposes, you can use this [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences)] which has the following datasets
+
+| Datasets      | 
+| ------------- |
+| Amazon Reviews| 
+| Yelp Restaurant Reviews| 
+| IMDB Movies reviews | 
 
 ## A graphical interface to understand how your review will be classified
 
